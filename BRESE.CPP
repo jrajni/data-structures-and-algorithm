@@ -9,20 +9,7 @@ int main(void)
     dx=x2-x1;
     d1=2*dy-dx;
     cout<<d1<<endl;
-    /*if(d1>=0)
-    {
-	d2=d1+2*(dy-dx);
-	y3=y1+1;
-	x3++;
-    }else
-    {
-	d2=d1+2*dy;
-	y3=y1;
-	x3++;
-    }
-    cout<<x3<<" "<<y3<<endl;
-    */
-	  x3=x1;
+    	  x3=x1;
     while(x1!=x2&&y1!=y2)
     {if(d1>=0)
     {

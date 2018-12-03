@@ -1,3 +1,4 @@
+//graph is represented by nodes nd edges
 #include <iostream>
 using namespace std;
 int main(void){
